@@ -1,0 +1,36 @@
+{
+  "SplashScreen": [
+    {
+      "AppName": "FORM",
+      "Splash_Img": "assets/images/google-forms.png"
+    }
+  ],
+  "FormPage": [
+    {
+      "Appbar_Color": "0xffBCD4FF",
+      "SnackBar_FirstName": "Please Enter Name",
+      "SnackBar_Latitude": "Please Enter latitude",
+      "SnackBar_Longitude": "Please Enter longitude",
+      "SnackBar_mobile": "Please Enter Mobile No",
+      "SnackBar_patient": "Please Enter Patient Id",
+      "SnackBar_national": "Please Enter National Code",
+      "SnackBar_risk": "Please Enter Risk Factor",
+      "SnackBar_reason": "Please Enter Reason",
+      "SnackBar_remark": "Please Enter Remarks",
+      "SnackBar_All": "All Fields are Mandatory",
+      "Age": "Please Enter Age",
+      "TxtBox_FirstName_Hint": "First Name",
+      "TxtBox_Age_Hint": "Age",
+      "Radio_Gender": "Gender",
+      "Radio_Gender_Male": "Male",
+      "Radio_Gender_Female": "Female",
+      "TxtButton_Save": "Save Details",
+      "TxtButton_Remark": "Remarks",
+      "District_Api": "https://lgdirectory.gov.in/webservices/lgd/napix/districts/v1/status/active",
+      "Village_Api": "https://lgdirectory.gov.in/webservices/lgd/napix/state/15/villages/v1/status/active",
+      "Taluk_Api": "https://lgdirectory.gov.in/webservices/lgdws/blockList",
+      "Quarantine_Api": "http://10.163.14.178:8083/Quarantine",
+      "Travel_History_Api": "http://10.163.14.178:8083/travel_history"
+    }
+  ]
+}

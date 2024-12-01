@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "54804411221",
+    "firebase_url": "https://aidas-web-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aidas-web",
+    "storage_bucket": "aidas-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54804411221:android:5e6a83f74711fe168d75dc",
+        "android_client_info": {
+          "package_name": "com.example.aidas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB2_7cOWxdeJXOQ7pbVTOGDFg9DLRVNkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
